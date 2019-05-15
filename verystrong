@@ -1,2 +1,3 @@
-git init
-git add readme
+$ mkdir Desktop/git_exercise/
+$ cd Desktop/git_exercise/
+$ git ini
